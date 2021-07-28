@@ -16,13 +16,13 @@ input {
 }
 
 #myform {
-    margin-left: 225px;
-    margin-top: 20px;
+    margin: auto;
+    text-align: center;
 }
 
 h1 {
     text-align: center;
-    font-size: 80px;
-    margin-right: 150px;
-    margin-top: 20px;
+    font-size: 3em;
+    margin: auto;
+    
 }
