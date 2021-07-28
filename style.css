@@ -9,6 +9,12 @@ input {
     border-style: none;
 }
 
+.sign:hover {
+    background-color: gold;
+    color: indigo;
+    cursor: pointer;
+}
+
 #myform {
     margin-left: 225px;
     margin-top: 20px;
